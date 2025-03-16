@@ -3,5 +3,5 @@
 
 using namespace std;
 
-void init(int* array, int size,int a, int b);
+void init(int* array, int size);
 string convert(int* array, int size);
